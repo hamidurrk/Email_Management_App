@@ -10,6 +10,7 @@ The `Mail` class provides a simple graphical interface for accessing and managin
 
 ## Installation
 This codebase can be cloned from GitHub using the following command:
+
 `git clone https://github.com/your-username/repo-name.git`
 
 ## Usage
@@ -22,6 +23,7 @@ This will launch the graphical user interface for the email management system. U
 This codebase depends on the following libraries:
 - JavaMail API
 - Java Activation Framework
+
 These libraries are included in the codebase and do not need to be separately installed.
 
 ## Contributions
