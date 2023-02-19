@@ -1,5 +1,8 @@
-# Mail Class Documentation
-The `Mail` class provides a simple graphical interface for accessing and managing email accounts. It supports the following features:
+# Email Management App
+The app provides a simple graphical interface for accessing and managing emails accross accounts. It is not complete yet, hoping to continue it sometime soon.
+
+## Mail Class
+It supports the following features:
 
 - Logging in to a Gmail account using an email address and password
 - Displaying a list of email folders and their contents, including the inbox, all mail, drafts, important, sent mail, spam, starred, and trash folders
