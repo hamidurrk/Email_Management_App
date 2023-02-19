@@ -1,3 +1,5 @@
+package org.mail;
+
 import javax.swing.*;
 import javax.swing.event.*;
 

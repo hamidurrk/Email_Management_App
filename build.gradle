@@ -1,8 +1,10 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
-group 'org.mail'
+mainClassName = 'GmailManager'
+group 'org.gmailmanager'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -12,6 +14,11 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation 'com.google.api-client:google-api-client:2.0.0'
+    implementation 'com.google.oauth-client:google-oauth-client-jetty:1.34.1'
+    implementation 'com.google.apis:google-api-services-gmail:v1-rev20220404-2.0.0'
+    implementation 'javax.mail:javax.mail-api:1.6.2'
+    implementation 'com.sun.mail:javax.mail:1.6.2'
 }
 
 test {
