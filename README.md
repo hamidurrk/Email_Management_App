@@ -1,5 +1,5 @@
 # Email Management App
-The app provides a simple graphical interface for accessing and managing emails accross accounts. It is not complete yet, hoping to continue it sometime soon.
+The app provides a simple graphical interface for accessing and managing emails accross accounts. It was not complete and after a while I stopped working on it. It was a fun project to work on and I learned a lot about Java and email management in the process.
 
 ## Mail Class
 It supports the following features:
