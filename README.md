@@ -14,7 +14,7 @@ It supports the following features:
 ## Installation
 This codebase can be cloned from GitHub using the following command:
 
-`git clone https://github.com/your-username/repo-name.git`
+`git clone https://github.com/hamidurrk/Email_Management_App.git`
 
 ## Usage
 The `Mail` class can be run by executing the following command:
